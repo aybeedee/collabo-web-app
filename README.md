@@ -10,7 +10,11 @@ The Collabo Web App is an internal project aimed at promoting the Code Collabo C
 
 #
 
-Find out how to use and contribute to this web application project in the **contributor docs** section of the [Collabo Web App Contributing Doc](https://code-collabo.gitbook.io/collabo-contributor/collabo-web-app-project/contribute-to-collabo-web-app)
+Find out how to use and contribute to this web application project in the [Collabo Web App Contributing Doc](https://code-collabo.gitbook.io/collabo-contributor/collabo-web-app-project/contribute-to-collabo-web-app)
+
+#
+
+To learn more about Code Collabo's community and other projects, feel free to visit our [official docs](https://code-collabo.gitbook.io/docs)
 
 ## Contributors
 
