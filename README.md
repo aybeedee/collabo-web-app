@@ -6,13 +6,11 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/collabo-contributor/collabo-web-app-project/contribute-to-collabo-web-app) [![GitHub issues](https://img.shields.io/github/issues/code-collabo/collabo-web-app?color=red)](https://github.com/code-collabo/collabo-web-app/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/code-collabo/collabo-web-app?color=goldenrod)](https://github.com/code-collabo/collabo-web-app/pulls)
 
-#
-
-Find a comprehensive usage guide for node-mongo projects in the [node-mongo user docs](https://code-collabo.gitbook.io/node-mongo-user/node-mongo-user-docs/readme)
+The Collabo Web App is an internal project aimed at promoting the Code Collabo Community, its projects, and programs. It also serves as a showcase for our web development tools like node-mongo and Collabo CSS framework. Opportunities for UI/UX and graphic design contributors available.
 
 #
 
-Find out how to contribute to this web application project in the **contributor docs** section of the [Code Collabo Community and projects documentation](https://code-collabo.gitbook.io/docs/collabo-docs-home/readme)
+Find out how to use and contribute to this web application project in the **contributor docs** section of the [Collabo Web App Contributing Doc](https://code-collabo.gitbook.io/collabo-contributor/collabo-web-app-project/contribute-to-collabo-web-app)
 
 ## Contributors
 
