@@ -1,7 +1,7 @@
 # Collabo Web App
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#Contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/collabo-contributor/collabo-web-app-project/contribute-to-collabo-web-app) [![GitHub issues](https://img.shields.io/github/issues/code-collabo/collabo-web-app?color=red)](https://github.com/code-collabo/collabo-web-app/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/code-collabo/collabo-web-app?color=goldenrod)](https://github.com/code-collabo/collabo-web-app/pulls)
