@@ -14,7 +14,7 @@ Find out how to use and contribute to this web application project in the [Colla
 
 #
 
-To learn more about Code Collabo's community and other projects, feel free to visit our [official docs](https://code-collabo.gitbook.io/docs)
+To learn more about Code Collabo's community and other projects, feel free to visit the official [Code Collabo Documentation](https://code-collabo.gitbook.io/docs)
 
 ## Contributors
 
